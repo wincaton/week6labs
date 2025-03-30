@@ -63,7 +63,7 @@ Question: "Will I become a Python expert?"
 Response: "It is decidely so."
 
 Question: "Should I have Wally & Buck for dinner?"
-Response: "Reply is hazy; try again, with more money"
+Response: "Reply is hazy; try again, with more money."
 
 1. Ask a question
 2. Review questions and responses
