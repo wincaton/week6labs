@@ -33,7 +33,8 @@ When you run your program, please input **at least 4 questions**. Save your note
 Here is an example of program output with 2 questions:
 
 ```
-Welcome to the all-seeing computer! Select an option to proceed:
+Welcome to the all-seeing computer!
+Ask what you seek to know...
 1. Ask a question
 2. Review questions and responses
 3. Complete services and pay
@@ -50,6 +51,7 @@ It is decidely so.
 
 1
 
+Ask what you seek to know...
 Should I have Wally & Buck for dinner?
 Reply is hazy; try again, with more money.
 
