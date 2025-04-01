@@ -26,7 +26,7 @@ Your program should do the following:
 2. Always provide the menu until the user decides to complete their use of the magic crystal ball.
 3. Store the user's questions and received responses in an array/list. When the user selects the option "Review questions/responses" display all the questions asked and their respective answers to the screen.
 4. **Randomly** select a response from your catalog of responses as a reply to the user's question (see below for guidance).
-5. Keep track of how much the user owes you. You charge $12.76 per question asked. Thus, when the user quits, you will display the total owed and the count of the questions asked.
+5. Keep track of how much the user owes you. You charge $30.00 per question asked. Thus, when the user quits, you will display the total owed and the count of the questions asked.
 
 When you run your program, please input **at least 4 questions**. Save your notebook with the output of your program showing that you have run the program and inputted at least 4 questions.
 
