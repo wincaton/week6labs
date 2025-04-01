@@ -17,24 +17,26 @@ Based on your vast research into "magic crystal ball" fortune telling, you decid
 * Outlook is not so good
 * Very doubtful
 
-In addition to these 8 responses, you will also provide 3 more of your own. Make sure your personality shows through *by not making them generic*. Save all of these responses in an array.
+In addition to these 8 responses, *you will also provide 3 more of your own*. Make sure your personality shows through *by not making them generic*. Save all of these responses in an array.
 
 Your program should do the following:
 
 1. Prompt the user to "Ask a question," "Review questions and responses," and "Complete services and pay."
-   * If they already asked their first question, change the menu from "Ask a question" to "Ask another question." Keep track of this with a boolean.
+   * If they already asked their first question, change the menu from "Ask *a* question" to "Ask *another* question." Keep track of this with a boolean.
 2. Always provide the menu until the user decides to complete their use of the magic crystal ball.
-3. Store the user's questions and received responses in an array/list. When the user selects the option "Review questions/responses" display all the questions asked and their respective answers to the screen.
+3. Store the user's questions and received responses in an array/list. When the user selects the option "Review questions and responses" display all the questions asked and their respective answers to the screen.
 4. **Randomly** select a response from your catalog of responses as a reply to the user's question (see below for guidance).
-5. Keep track of how much the user owes you. You charge $30.00 per question asked. Thus, when the user quits, you will display the total owed and the count of the questions asked.
+5. Keep track of how much the user owes for services. You charge $30.00 per question asked. Thus, when the user completes their use of your services, you will display the total owed and the count of the questions asked.
 
-When you run your program, please input **at least 4 questions**. Save your notebook with the output of your program showing that you have run the program and inputted at least 4 questions.
+When you run your program, please input **at least 4 questions**. Save your notebook with the output of your program showing that: 
+* You have run the program and inputted at least 4 questions.
+* Selected the other menu options to display questions/responses and complete services.
 
 Here is an example of program output with 2 questions:
 
 ```
 Welcome to the all-seeing computer!
-Ask what you seek to know...
+
 1. Ask a question
 2. Review questions and responses
 3. Complete services and pay
@@ -75,7 +77,7 @@ Response: "Reply is hazy; try again, with more money."
 
 Thank you for visiting the all-seeing computer.
 
-You asked 2 questions. You owe $60.00 for today's service. 
+You asked 2 questions. You owe $60.00 for today's services. 
 
 ```
 
